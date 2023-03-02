@@ -1,0 +1,4 @@
+github.com/gonutz/w32/v2 v2.7.0 h1:O9lx/5tZ+WjZdxdvQFTh+/kP/7y95YCaL5MHqPrIHn4=
+github.com/gonutz/w32/v2 v2.7.0/go.mod h1:MgtHx0AScDVNKyB+kjyPder4xIi3XAcHS6LDDU2DmdE=
+github.com/hnakamur/w32syscall v0.0.0-20150329104255-b8b99ed86a56 h1:kZ0/GrJre7uciw/jlR6x0CDZ5MQe9ppRuiW8qq+e694=
+github.com/hnakamur/w32syscall v0.0.0-20150329104255-b8b99ed86a56/go.mod h1:PGikIopDgEZKXlRJJSymAXwWiQu1w6+gblg4WkaiFew=
